@@ -6,7 +6,7 @@ modified again
 added copyright section
 
 #Update in the new branch 
-just to test conflicts yunno
+just to test conflicts okay here i added some more text yunno
 
 ## subscetion where master branch makes updates
 

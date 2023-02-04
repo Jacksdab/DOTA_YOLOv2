@@ -5,7 +5,7 @@ modified again
 ## Copyright 
 added copyright section
 
-#Update in the new branch 
+#Update in the new branch, i make a conflicting update now!
 just to test conflicts yunno
 
 Ok last modifciation

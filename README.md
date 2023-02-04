@@ -5,6 +5,8 @@ modified again
 ## Copyright 
 added copyright section
 
+#Update 
+
 Ok last modifciation
 ## Small addition 
 **DOTA_YOLOv2** provides the data convertion code, parameter files while training <a href="http://captain.whu.edu.cn/DOTAweb/dataset.html">DOTA<a> using <a href="https://pjreddie.com/darknet/yolov2/">YOLOv2<a>, and the trained model is also provided. So it's convenient for you to use them.<br>

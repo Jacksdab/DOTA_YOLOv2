@@ -1,7 +1,9 @@
 # This is for me to test the markfile idea
 modified again
 ## And again
-add mroe text for rebased
+add mroe text for rebased adding changes, to rebasing
+
+conflict
 ## Copyright 
 added copyright section
 

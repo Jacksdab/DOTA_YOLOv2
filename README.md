@@ -1,6 +1,8 @@
 # This is for me to test the markfile idea
 modified again
 ## And again
+
+## Changes for stashing earning
 add mroe text for rebased adding changes, to rebasing
 
 conflict

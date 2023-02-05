@@ -7,6 +7,8 @@ conflict
 ## Copyright 
 added copyright section
 
+edit copyright
+
 #Update in the new branch, i make a conflicting update now!
 just to test conflicts okay here i added some more text yunno
 
